@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+mediapipe
+gradio
+gtts
+pygame
+pandas
+numpy
+pillow
